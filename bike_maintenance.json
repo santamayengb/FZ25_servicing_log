@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2025-07-08",
+    "total_kilometer": 15600,
+    "service_number": 6,
+    "next_service_km": 18600,
+    "items": [
+      {
+        "item": "Engine Oil",
+        "name": "Yamalube Sporty Premium",
+        "quantity": 2,
+        "unit": "liter",
+        "unit_cost": 530,
+        "total_cost": 1060
+      },
+      {
+        "item": "Oil Filter",
+        "name": null,
+        "quantity": 1,
+        "unit": "piece",
+        "unit_cost": 240,
+        "total_cost": 240
+      }
+    ],
+    "total_invoice": 1300
+  }
+]
