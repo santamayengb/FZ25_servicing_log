@@ -43,6 +43,8 @@ Each entry in the JSON file represents a single service event and follows this s
     *   **total_cost**: The total cost for that item (`quantity` * `unit_cost`).
 *   **total_invoice**: The sum of `total_cost` for all items in the service.
 
+###
+
 ## How to Add Entries
 
 To add a new entry, provide the details of the service in plain English. For example:
